@@ -1,4 +1,4 @@
 node_modules
 .env
-.aprcel-cache
+.parcel-cache
 dist
